@@ -47,5 +47,4 @@ if __FILE__ == $0
     end
 
   puts retval + (filepath.nil? ? '' : " #{filepath}")
-
 end
